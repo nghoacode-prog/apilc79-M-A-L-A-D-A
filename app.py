@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """PAW TX API v3 — AI nâng cấp + JSON gọn.
 Endpoints: /tx/hu  /tx/md5  /history/tx/hu  /history/tx/md5  /ping  /admin
-Env: ADMIN_PASS (bắt buộc), ADMIN_USER (mặc định: admin), SECRET_KEY,
+Env: ADMIN_PASS (bắt buộc), ADMIN_USER (mặc định: pawdev), SECRET_KEY,
      API_URL_HU, API_URL_MD5, STATE_FILE, DISABLED_TABLES
 Start: gunicorn app:app --workers 1 --threads 4 --timeout 30
 """
