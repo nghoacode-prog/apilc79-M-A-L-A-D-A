@@ -1,9 +1,3 @@
----
-name: "paw-tx-app"
-title: "PAW TX app.py — v12 (3 bàn + Sunwin + Governor ổn định)"
-type: "code"
-language: "python"
----
 
 # -*- coding: utf-8 -*-
 """
