@@ -89,7 +89,7 @@ from werkzeug.exceptions import HTTPException
 
 URLS  = {"hu":     os.getenv("API_URL_HU",     "https://wtx.tele68.com/v1/tx/sessions"),
          "md5":    os.getenv("API_URL_MD5",    "https://wtxmd52.tele68.com/v1/txmd5/sessions"),
-         "sunwin": os.getenv("API_URL_SUNWIN", "https://asbestos-promote-mississippi-wizard.trycloudflare.com/sunwin/api/tx")}
+         "sunwin": os.getenv("API_URL_SUNWIN", "https://eagles-bonds-builder-canyon.trycloudflare.com/sunwin/api/tx")}
 NAMES = {"hu": "LC79 Hũ", "md5": "LC79 MD5", "sunwin": "Sunwin"}
 # Game logic: mỗi GAME một loại key riêng (không dùng chung)
 #   lc79   → 2 bàn Hũ + MD5   ·   sunwin → 1 bàn Sunwin
